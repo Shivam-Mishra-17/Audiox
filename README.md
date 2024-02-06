@@ -1,2 +1,2 @@
 # Audiox
-Converting Audio or Live Voice in our understanding language
+Converting recorded audio or live voice in our understanding of language
